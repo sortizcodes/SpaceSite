@@ -21,7 +21,7 @@ body {
     line-height: 1.6;
     background-color: #090b13;
     background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(11, 20, 40, 0.8)), 
-                      url('images/blackstars.jpg') !important;
+                      url('blackstars.jpg') !important;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -39,7 +39,7 @@ body {
 }
 
 header {
-    background-image: url('../images/phangsdither.png');
+    background-image: url('phangsdither.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
