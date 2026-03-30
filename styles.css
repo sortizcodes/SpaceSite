@@ -58,7 +58,7 @@ header {
     position: sticky;
     top: 0;
     z-index: 1000;
-    border-bottom: 2px solid #870451;
+    border-bottom: 2px solid #cb0505;
     display: flex;
     justify-content: center;
     align-items: center;
